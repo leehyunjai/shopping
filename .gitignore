@@ -1,0 +1,13 @@
+# 앱이 실행 중에 만드는 데이터 (개인 목록이 저장소에 올라가지 않도록)
+shopping_list.json
+shopping_list.tmp
+shopping_list.corrupt-*.json
+
+# 테스트 산출물
+.playwright-mcp/
+
+# 로컬 개발 설정
+.claude/
+
+__pycache__/
+*.pyc
